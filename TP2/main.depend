@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1589489747 source:c:\users\hernan\desktop\maty\programacion\codeblokprojects\main\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+
+1589489610 c:\users\hernan\desktop\maty\programacion\codeblokprojects\main\arrayemployees.h
+
+1589489747 source:c:\users\hernan\desktop\maty\programacion\codeblokprojects\main\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+
